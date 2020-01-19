@@ -1,0 +1,14 @@
+.backgroundImg {
+  background-image: url('http://static1.squarespace.com/static/5d2d0ded2e47150001d2052a/5d2d206d9251be00011fa285/5d363b15b6461b00015ec06e/1573775710847/facial+care+group-white+floral+shadow-3.jpg?format=1500w');
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 1000px;
+}
+.titleEm {
+  text-align: center;
+  color: rgb(255, 196, 0);
+  font-weight: bold;
+  font-size: 93px;
+  padding-top: 80px;
+}
