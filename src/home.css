@@ -9,8 +9,8 @@
 }
 .backgroundText {
   font-weight: bold;
-  padding-top: 18%;
-  padding-left: 30px;
+  padding-top: 21%;
+  padding-left: 18px;
 }
 .btnContinue {
   width: 250px;
@@ -37,11 +37,12 @@
   background-color: rgb(246, 245, 245);
 }
 .innerText1 {
-  color: rgb(78, 78, 78);
+  color: rgb(151, 151, 151);
 }
 .card-text {
   text-align: center;
   font-weight: bold;
+  color: rgb(165, 165, 165);
 }
 .innerFont1 {
   font-size: 45px;
@@ -49,10 +50,12 @@
 }
 .innerFont2 {
   font-size: 20px;
+  font-weight: bold;
 }
 .col1Text {
   margin-top: 50%;
   text-align: left;
+  color: rgb(126, 144, 25);
 }
 .col1secondText {
   text-align: left;
@@ -140,8 +143,7 @@
 .innerText2 {
   margin-top: 20px;
 
-  color: rgb(66, 66, 66);
-  font-weight: 600;
+  color: rgb(255, 255, 255);
 }
 .backgroundImg2 {
   background-image: url('./Img/Essentials.JPG');
@@ -155,7 +157,7 @@
 
 .ourProductsText {
   font-size: 60px;
-  color: rgb(41, 124, 113);
+  color: rgb(195, 195, 195);
   text-align: center;
   font-weight: bold;
   margin: 100px auto;
