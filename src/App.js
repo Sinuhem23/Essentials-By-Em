@@ -6,6 +6,14 @@ import './home.css';
 function App() {
   return (
     <div>
+      <nav className='navbar navbar-expand-lg navbar-dark bg-dark'>
+        <a className='navbar-brand ' href='/'>
+          Essentials By Em
+        </a>
+        <a className='navbar-brand btn btn-warning ' href='#products'>
+          Products
+        </a>
+      </nav>
       <div className='backgroundImg '>
         <div className='backgroundText container'>
           <div className='row innerText1'>
@@ -24,7 +32,9 @@ function App() {
           </div>
 
           <div className='row'>
-            <div className='col-md-4 btn btnContinue'>Continue</div>
+            <a className='col-md-4 btn btnContinue' href='#products'>
+              Continue
+            </a>
             <div className='col-md-4'></div>
             <div className='col-md-4'></div>
           </div>
@@ -32,7 +42,7 @@ function App() {
       </div>
       <p className='ourProductsText'>Our Products</p>
       {/* <div className='container'> */}
-      <div className='row secondCol'>
+      <div className='row secondCol' id='products'>
         {/* First Col */}
 
         <div className='col-lg-4 '>

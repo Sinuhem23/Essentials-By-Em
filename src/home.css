@@ -1,3 +1,6 @@
+html {
+  scroll-behavior: smooth;
+}
 .backgroundImg {
   background-image: url('./Img/MudMaskBackground.jpg');
   background-size: cover;
